@@ -1,2 +1,3 @@
-# turtle-party
-Fun with turtle functions
+# Turtle Party Project
+Fun with turtle functions!
+by Crissy Pohl
